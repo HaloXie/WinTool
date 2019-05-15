@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E74806D-A27A-470F-817D-1DCD719AB531}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NeuSoft.ServiceInterface.ImplementInterfaceAPI</RootNamespace>
+    <AssemblyName>NeuSoft.ServiceInterface.ImplementInterfaceAPI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dos.ORM">
+      <HintPath>..\..\ResourcesFile\Dos.ORM.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\ResourcesFile\System.Data.SQLite.DLL</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseApi\AbsBaseApi.cs" />
+    <Compile Include="InterfaceFactory.cs" />
+    <Compile Include="ModuleApi\BM\AllocationInterface.cs" />
+    <Compile Include="ModuleApi\BM\FactoryLineInterface.cs" />
+    <Compile Include="ModuleApi\BM\FactoryWorkCenterInterface.cs" />
+    <Compile Include="ModuleApi\BM\FactoryWorkStationInterface.cs" />
+    <Compile Include="ModuleApi\BM\FactoryWorkUnitInterface.cs" />
+    <Compile Include="ModuleApi\BM\MaterialInfoInterface.cs" />
+    <Compile Include="ModuleApi\BM\MaterialTypeInterface.cs" />
+    <Compile Include="ModuleApi\BM\MaterialUnitInterface.cs" />
+    <Compile Include="ModuleApi\BM\OperationInfoInterface.cs" />
+    <Compile Include="ModuleApi\BM\OperationStepInterface.cs" />
+    <Compile Include="ModuleApi\BM\ProductDetailInterface.cs" />
+    <Compile Include="ModuleApi\BM\ProductInfoInterface.cs" />
+    <Compile Include="ModuleApi\BM\QCCheckingToolInterface.cs" />
+    <Compile Include="ModuleApi\BM\QCDefectInterface.cs" />
+    <Compile Include="ModuleApi\BM\QCQualityGradeInterface.cs" />
+    <Compile Include="ModuleApi\BM\QCQualityWayInterface.cs" />
+    <Compile Include="ModuleApi\BM\RouteLineInterface.cs" />
+    <Compile Include="ModuleApi\BM\RouteOperationInterface.cs" />
+    <Compile Include="ModuleApi\BM\RouteOperStepInterface.cs" />
+    <Compile Include="ModuleApi\BM\StepInfoInterface.cs" />
+    <Compile Include="ModuleApi\BM\WarehouseInterface.cs" />
+    <Compile Include="ModuleApi\IME\LogisticMaterialReqInterface.cs" />
+    <Compile Include="ModuleApi\IME\LogisticReceiveDetailInterface.cs" />
+    <Compile Include="ModuleApi\IME\LogisticReceiveInterface.cs" />
+    <Compile Include="ModuleApi\IME\LogisticReqPackageDetailInterface.cs" />
+    <Compile Include="ModuleApi\IME\LogisticReqPackageInterface.cs" />
+    <Compile Include="ModuleApi\IME\QcQacBillInterface.cs" />
+    <Compile Include="ModuleApi\IME\QcQacRecCkDefectcardInterface.cs" />
+    <Compile Include="ModuleApi\IME\QcQacRecordCheckCardInterface.cs" />
+    <Compile Include="ModuleApi\IME\QcQacRecordInterface.cs" />
+    <Compile Include="ModuleApi\IME\QCKeyModuleInfoInterface.cs" />
+    <Compile Include="ModuleApi\IME\QCKeyModuleInterface.cs" />
+    <Compile Include="ModuleApi\IME\ReportOrderInterface.cs" />
+    <Compile Include="ModuleApi\SM\BusiUnitInterface.cs" />
+    <Compile Include="ModuleApi\IME\ReportOrderStepsInterface.cs" />
+    <Compile Include="ModuleApi\IME\TrackOrderInterface.cs" />
+    <Compile Include="ModuleApi\IME\TrackOrderOperationInterface.cs" />
+    <Compile Include="ModuleApi\IME\TrackOrderPersonInterface.cs" />
+    <Compile Include="ModuleApi\IME\TrackOrderStepsInterface.cs" />
+    <Compile Include="ModuleApi\IME\WorkOrderBomInterface.cs" />
+    <Compile Include="ModuleApi\IME\WorkSerialManagerInterface.cs" />
+    <Compile Include="ModuleApi\SM\DepartmentInterface.cs" />
+    <Compile Include="ModuleApi\SM\PersonnelInterface.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Modules\BaseApi\NeuSoft.ClientDataService.BaseApi\NeuSoft.ClientDataService.BaseApiBusiness.csproj">
+      <Project>{EB93CFBC-BADF-475B-B2E7-1FE2C1948EA3}</Project>
+      <Name>NeuSoft.ClientDataService.BaseApiBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modules\Produce\NeuSoft.DataService.ProduceBusiness\NeuSoft.ClientDataService.ProduceBusiness.csproj">
+      <Project>{500A44B1-B4D2-477E-8A9F-15642F2766CA}</Project>
+      <Name>NeuSoft.ClientDataService.ProduceBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\NeuSoft.ClientDataService.CommonBusiness.csproj">
+      <Project>{3bd66259-3365-4721-a615-9de5a201bfa1}</Project>
+      <Name>NeuSoft.ClientDataService.CommonBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NeuSoft.Client.InterfaceDTO\NeuSoft.ServiceInterface.InterfaceDTO.csproj">
+      <Project>{08921559-A787-44BB-A475-85B6BC9CF44B}</Project>
+      <Name>NeuSoft.ServiceInterface.InterfaceDTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NeuSoft.ServcieInterface.InterfaceAPI\NeuSoft.ServiceInterface.InterfaceAPI.csproj">
+      <Project>{07873C96-4428-40C2-85BF-AD9E9BC4B0C1}</Project>
+      <Name>NeuSoft.ServiceInterface.InterfaceAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NeuSoft.ServiceInterface.Common\NeuSoft.ServiceInterface.Common.csproj">
+      <Project>{DF60035D-7659-4EE3-86FB-E9F3F3727FD4}</Project>
+      <Name>NeuSoft.ServiceInterface.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NeuSoft.ServiceInterface.ModelData\NeuSoft.ServiceInterface.ModelData.csproj">
+      <Project>{29004F36-7354-42AD-BBDB-C323ED71BB37}</Project>
+      <Name>NeuSoft.ServiceInterface.ModelData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

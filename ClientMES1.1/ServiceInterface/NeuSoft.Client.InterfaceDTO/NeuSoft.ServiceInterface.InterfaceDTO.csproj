@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{08921559-A787-44BB-A475-85B6BC9CF44B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NeuSoft.Client.InterfaceDTO</RootNamespace>
+    <AssemblyName>NeuSoft.Client.InterfaceDTO</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dos.ORM">
+      <HintPath>..\..\ResourcesFile\Dos.ORM.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BM\AllocationDTO.cs" />
+    <Compile Include="BM\FactoryWorkStationDTO.cs" />
+    <Compile Include="BM\QCCheckingToolDTO.cs" />
+    <Compile Include="BM\QCDefectDTO.cs" />
+    <Compile Include="BM\QCQualityGradeDTO.cs" />
+    <Compile Include="BM\QCQualityWayDTO.cs" />
+    <Compile Include="BM\WarehouseDTO.cs" />
+    <Compile Include="IME\LogisticMaterialReqDTO.cs" />
+    <Compile Include="IME\LogisticReceiveDetailDTO.cs" />
+    <Compile Include="IME\LogisticReceiveDTO.cs" />
+    <Compile Include="IME\LogisticReqPackageDetailDTO.cs" />
+    <Compile Include="IME\LogisticReqPackageDTO.cs" />
+    <Compile Include="IME\QCKeyModule.cs" />
+    <Compile Include="IME\QCKeyModuleDTO.cs" />
+    <Compile Include="IME\QCKeyModuleInfoDTO.cs" />
+    <Compile Include="IME\ReportOrderDTO.cs" />
+    <Compile Include="IME\ReportOrderStepsDTO.cs" />
+    <Compile Include="IME\TrackOrderDTO.cs" />
+    <Compile Include="IME\TrackOrderOperationDTO.cs" />
+    <Compile Include="IME\TrackOrderPersonDTO.cs" />
+    <Compile Include="IME\TrackOrderStepsDTO.cs" />
+    <Compile Include="IME\WorkOrderBomDTO.cs" />
+    <Compile Include="IME\WorkSerialManagerDTO.cs" />
+    <Compile Include="SM\BusiUnitDTO.cs" />
+    <Compile Include="BM\FactoryLineDTO.cs" />
+    <Compile Include="BM\FactoryWorkCenterDTO.cs" />
+    <Compile Include="BM\FactoryWorkUnitDTO.cs" />
+    <Compile Include="BM\MaterialInfoDTO.cs" />
+    <Compile Include="BM\MaterialTypeDTO.cs" />
+    <Compile Include="BM\MaterialUnitDTO.cs" />
+    <Compile Include="BM\OperationInfoDTO.cs" />
+    <Compile Include="BM\OperationStepDTO.cs" />
+    <Compile Include="BM\ProductDetailDTO.cs" />
+    <Compile Include="BM\ProductInfoDTO.cs" />
+    <Compile Include="BM\RouteLineDTO.cs" />
+    <Compile Include="BM\RouteOperationDTO.cs" />
+    <Compile Include="BM\RouteOperStepDTO.cs" />
+    <Compile Include="BM\StepInfoDTO.cs" />
+    <Compile Include="IME\QacBillDTO.cs" />
+    <Compile Include="IME\QacRecordCheckCardDTO.cs" />
+    <Compile Include="IME\QacRecordCkDefectCardDTO.cs" />
+    <Compile Include="IME\QacRecordDTO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RtnEntity.cs" />
+    <Compile Include="SM\DepartmentDTO.cs" />
+    <Compile Include="SM\PersonnelDTO.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

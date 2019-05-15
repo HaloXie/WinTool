@@ -1,0 +1,14 @@
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\NeuSoft.DataService.CommonBusiness.dll
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\NeuSoft.DataService.CommonBusiness.pdb
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\NeuSoft.DataService.CommonDataAccess.dll
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\NeuSoft.ServiceInterface.ModelData.dll
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\Dos.ORM.dll
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\NeuSoft.ServiceInterface.Common.dll
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\System.Data.SQLite.dll
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\NeuSoft.ServiceInterface.ModelData.pdb
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\NeuSoft.DataService.CommonDataAccess.pdb
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\bin\Debug\NeuSoft.ServiceInterface.Common.pdb
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\obj\Debug\NeuSoft.DataService.CommonBusiness.csprojResolveAssemblyReference.cache
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\obj\Debug\NeuSoft.DataService.CommonBusiness.csproj.CoreCompileInputs.cache
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\obj\Debug\NeuSoft.DataService.CommonBusiness.dll
+F:\工作\工作代码\ClientDemo1\ClientForWinform1.1\NeuSoft.Client.WinForm\ServiceInterface\Modules\SystemCommon\NeuSoft.DataService.CommonBusiness\obj\Debug\NeuSoft.DataService.CommonBusiness.pdb

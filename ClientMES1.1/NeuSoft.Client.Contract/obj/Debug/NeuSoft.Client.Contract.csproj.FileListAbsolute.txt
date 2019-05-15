@@ -1,0 +1,10 @@
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.Contract\bin\Debug\NeuSoft.Client.Contract.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.Contract\bin\Debug\NeuSoft.Client.Contract.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.Contract\obj\Debug\NeuSoft.Client.Contract.csproj.CoreCompileInputs.cache
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.Contract\obj\Debug\NeuSoft.Client.Contract.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.Contract\obj\Debug\NeuSoft.Client.Contract.pdb
+E:\Code\VS2017\NEU2_MES\Imes_Project\ClientMES1.1\NeuSoft.Client.Contract\bin\Debug\NeuSoft.Client.Contract.dll
+E:\Code\VS2017\NEU2_MES\Imes_Project\ClientMES1.1\NeuSoft.Client.Contract\bin\Debug\NeuSoft.Client.Contract.pdb
+E:\Code\VS2017\NEU2_MES\Imes_Project\ClientMES1.1\NeuSoft.Client.Contract\obj\Debug\NeuSoft.Client.Contract.csproj.CoreCompileInputs.cache
+E:\Code\VS2017\NEU2_MES\Imes_Project\ClientMES1.1\NeuSoft.Client.Contract\obj\Debug\NeuSoft.Client.Contract.dll
+E:\Code\VS2017\NEU2_MES\Imes_Project\ClientMES1.1\NeuSoft.Client.Contract\obj\Debug\NeuSoft.Client.Contract.pdb

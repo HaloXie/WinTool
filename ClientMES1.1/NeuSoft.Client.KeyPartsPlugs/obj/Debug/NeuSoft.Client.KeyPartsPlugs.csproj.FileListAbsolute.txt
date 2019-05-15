@@ -1,0 +1,10 @@
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\bin\Debug\NeuSoft.Client.KeyPartsPlugs.dll
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\bin\Debug\NeuSoft.Client.KeyPartsPlugs.pdb
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\obj\Debug\NeuSoft.Client.KeyPartsPlugs.csproj.CoreCompileInputs.cache
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\obj\Debug\NeuSoft.Client.KeyPartsPlugs.dll
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\obj\Debug\NeuSoft.Client.KeyPartsPlugs.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\bin\Debug\NeuSoft.Client.KeyPartsPlugs.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\bin\Debug\NeuSoft.Client.KeyPartsPlugs.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\obj\Debug\NeuSoft.Client.KeyPartsPlugs.csproj.CoreCompileInputs.cache
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\obj\Debug\NeuSoft.Client.KeyPartsPlugs.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.KeyPartsPlugs\obj\Debug\NeuSoft.Client.KeyPartsPlugs.pdb

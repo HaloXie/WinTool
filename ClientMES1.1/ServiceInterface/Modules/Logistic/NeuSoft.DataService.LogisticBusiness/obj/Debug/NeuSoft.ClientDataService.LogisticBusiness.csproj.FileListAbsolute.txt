@@ -1,0 +1,11 @@
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\bin\Debug\NeuSoft.ClientDataService.LogisticBusiness.dll
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\bin\Debug\NeuSoft.ClientDataService.LogisticBusiness.pdb
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\obj\Debug\NeuSoft.ClientDataService.LogisticBusiness.csprojResolveAssemblyReference.cache
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\obj\Debug\NeuSoft.ClientDataService.LogisticBusiness.csproj.CoreCompileInputs.cache
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\obj\Debug\NeuSoft.ClientDataService.LogisticBusiness.dll
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\obj\Debug\NeuSoft.ClientDataService.LogisticBusiness.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\bin\Debug\NeuSoft.ClientDataService.LogisticBusiness.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\bin\Debug\NeuSoft.ClientDataService.LogisticBusiness.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\obj\Debug\NeuSoft.ClientDataService.LogisticBusiness.csproj.CoreCompileInputs.cache
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\obj\Debug\NeuSoft.ClientDataService.LogisticBusiness.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Logistic\NeuSoft.DataService.LogisticBusiness\obj\Debug\NeuSoft.ClientDataService.LogisticBusiness.pdb

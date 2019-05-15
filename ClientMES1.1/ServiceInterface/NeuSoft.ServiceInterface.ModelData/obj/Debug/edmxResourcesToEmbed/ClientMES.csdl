@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2006/04/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ClientMES" Alias="Self">
+  <EntityContainer Name="ClientMESContainer">
+    <EntitySet Name="MaterielTypeSet" EntityType="ClientMES.MaterielType" />
+  </EntityContainer>
+  <EntityType Name="MaterielType">
+    <Key>
+      <PropertyRef Name="MaterielTypeGuid" />
+    </Key>
+    <Property Name="MaterielTypeGuid" Type="String" Nullable="false" />
+    <Property Name="TypeCode" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>

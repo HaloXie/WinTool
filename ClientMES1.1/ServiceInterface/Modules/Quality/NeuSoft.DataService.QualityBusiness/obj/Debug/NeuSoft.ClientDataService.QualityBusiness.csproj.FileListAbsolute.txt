@@ -1,0 +1,10 @@
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\bin\Debug\NeuSoft.ClientDataService.QualityBusiness.dll
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\bin\Debug\NeuSoft.ClientDataService.QualityBusiness.pdb
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\obj\Debug\NeuSoft.ClientDataService.QualityBusiness.csproj.CoreCompileInputs.cache
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\obj\Debug\NeuSoft.ClientDataService.QualityBusiness.dll
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\obj\Debug\NeuSoft.ClientDataService.QualityBusiness.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\bin\Debug\NeuSoft.ClientDataService.QualityBusiness.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\bin\Debug\NeuSoft.ClientDataService.QualityBusiness.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\obj\Debug\NeuSoft.ClientDataService.QualityBusiness.csproj.CoreCompileInputs.cache
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\obj\Debug\NeuSoft.ClientDataService.QualityBusiness.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\Quality\NeuSoft.DataService.QualityBusiness\obj\Debug\NeuSoft.ClientDataService.QualityBusiness.pdb

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{07873C96-4428-40C2-85BF-AD9E9BC4B0C1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NeuSoft.ServiceInterface.InterfaceAPI</RootNamespace>
+    <AssemblyName>NeuSoft.ServiceInterface.InterfaceAPI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IBaseApi\IBaseApi.cs" />
+    <Compile Include="IInterfaceFactory.cs" />
+    <Compile Include="IModuleApi\BM\IAllocationInterface.cs" />
+    <Compile Include="IModuleApi\BM\IFactoryLineInterface.cs" />
+    <Compile Include="IModuleApi\BM\IFactoryWorkCenterInterface.cs" />
+    <Compile Include="IModuleApi\BM\IFactoryWorkStationInterface.cs" />
+    <Compile Include="IModuleApi\BM\IFactoryWorkUnitInterface.cs" />
+    <Compile Include="IModuleApi\BM\IOperationInfoInterface.cs" />
+    <Compile Include="IModuleApi\BM\IOperationStepInterface.cs" />
+    <Compile Include="IModuleApi\BM\IQCCheckingToolInterface.cs" />
+    <Compile Include="IModuleApi\BM\IQCDefectInterface.cs" />
+    <Compile Include="IModuleApi\BM\IQCQualityGradeInterface.cs" />
+    <Compile Include="IModuleApi\BM\IQCQualityWayInterface.cs" />
+    <Compile Include="IModuleApi\BM\IRouteLineInterface.cs" />
+    <Compile Include="IModuleApi\BM\IRouteOperationInterface.cs" />
+    <Compile Include="IModuleApi\BM\IRouteOperStepInterface.cs" />
+    <Compile Include="IModuleApi\BM\IProductInfoInterface.cs" />
+    <Compile Include="IModuleApi\BM\IProductDetailInterface.cs" />
+    <Compile Include="IModuleApi\BM\IMaterialTypeInterface.cs" />
+    <Compile Include="IModuleApi\BM\IMaterialUnitInterface.cs" />
+    <Compile Include="IModuleApi\BM\IMaterialInfoInterface.cs" />
+    <Compile Include="IModuleApi\BM\IStepInfoInterface.cs" />
+    <Compile Include="IModuleApi\BM\IWarehouseInterface.cs" />
+    <Compile Include="IModuleApi\IME\ILogisticMaterialReqInterface.cs" />
+    <Compile Include="IModuleApi\IME\ILogisticReceiveDetailInterface.cs" />
+    <Compile Include="IModuleApi\IME\ILogisticReceiveInterface.cs" />
+    <Compile Include="IModuleApi\IME\ILogisticReqPackageDetailInterface.cs" />
+    <Compile Include="IModuleApi\IME\ILogisticReqPackageInterface.cs" />
+    <Compile Include="IModuleApi\IME\IQcQacRecCkDefectcardInterface.cs" />
+    <Compile Include="IModuleApi\IME\IQcQacRecordCheckCardInterface.cs" />
+    <Compile Include="IModuleApi\IME\IQcQacRecordInterface.cs" />
+    <Compile Include="IModuleApi\IME\IQcQacBillInterface.cs" />
+    <Compile Include="IModuleApi\IME\IQCKeyModuleInfoInterface.cs" />
+    <Compile Include="IModuleApi\IME\IQCKeyModuleInterface.cs" />
+    <Compile Include="IModuleApi\IME\IReportOrderInterface.cs" />
+    <Compile Include="IModuleApi\IME\IReportOrderStepsInterface.cs" />
+    <Compile Include="IModuleApi\IME\ITrackOrderInterface.cs" />
+    <Compile Include="IModuleApi\IME\ITrackOrderOperationInterface.cs" />
+    <Compile Include="IModuleApi\IME\ITrackOrderPersonInterface.cs" />
+    <Compile Include="IModuleApi\IME\ITrackOrderStepsInterface.cs" />
+    <Compile Include="IModuleApi\IME\IWorkOrderBomInterface.cs" />
+    <Compile Include="IModuleApi\IME\IWorkSerialManagerInterface.cs" />
+    <Compile Include="IModuleApi\SM\IBusiUnitInterface.cs" />
+    <Compile Include="IModuleApi\SM\IDepartmentInterface.cs" />
+    <Compile Include="IModuleApi\SM\IPersonnelInterface.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NeuSoft.Client.InterfaceDTO\NeuSoft.ServiceInterface.InterfaceDTO.csproj">
+      <Project>{08921559-A787-44BB-A475-85B6BC9CF44B}</Project>
+      <Name>NeuSoft.ServiceInterface.InterfaceDTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

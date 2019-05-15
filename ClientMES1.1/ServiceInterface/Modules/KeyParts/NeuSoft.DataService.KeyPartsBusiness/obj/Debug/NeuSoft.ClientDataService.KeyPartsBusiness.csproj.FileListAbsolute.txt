@@ -1,0 +1,12 @@
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\bin\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.dll
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\bin\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.pdb
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\obj\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.csprojResolveAssemblyReference.cache
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\obj\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.csproj.CoreCompileInputs.cache
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\obj\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.dll
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\obj\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\bin\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\bin\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\obj\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.csproj.CoreCompileInputs.cache
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\obj\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\obj\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsBusiness\obj\Debug\NeuSoft.ClientDataService.KeyPartsBusiness.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\bin\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.dll
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\bin\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.pdb
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\obj\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.csprojResolveAssemblyReference.cache
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\obj\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.csproj.CoreCompileInputs.cache
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\obj\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.dll
+\\7.176.166.194\Project\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\obj\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\bin\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\bin\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\obj\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\obj\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\ServiceInterface\Modules\KeyParts\NeuSoft.DataService.KeyPartsDataAccess\obj\Debug\NeuSoft.ClientDataService.KeyPartsDataAccess.pdb

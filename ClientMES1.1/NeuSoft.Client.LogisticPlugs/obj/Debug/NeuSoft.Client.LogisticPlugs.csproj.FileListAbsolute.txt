@@ -1,0 +1,11 @@
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.LogisticPlugs\bin\Debug\NeuSoft.Client.LogisticPlugs.dll
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.LogisticPlugs\bin\Debug\NeuSoft.Client.LogisticPlugs.pdb
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.LogisticPlugs\obj\Debug\NeuSoft.Client.LogisticPlugs.csprojResolveAssemblyReference.cache
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.LogisticPlugs\obj\Debug\NeuSoft.Client.LogisticPlugs.csproj.CoreCompileInputs.cache
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.LogisticPlugs\obj\Debug\NeuSoft.Client.LogisticPlugs.dll
+\\7.176.166.194\Project\ClientMES1.1\NeuSoft.Client.LogisticPlugs\obj\Debug\NeuSoft.Client.LogisticPlugs.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.LogisticPlugs\bin\Debug\NeuSoft.Client.LogisticPlugs.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.LogisticPlugs\bin\Debug\NeuSoft.Client.LogisticPlugs.pdb
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.LogisticPlugs\obj\Debug\NeuSoft.Client.LogisticPlugs.csproj.CoreCompileInputs.cache
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.LogisticPlugs\obj\Debug\NeuSoft.Client.LogisticPlugs.dll
+C:\Users\MINGHAO.XIE\Desktop\ClientMES1.1\NeuSoft.Client.LogisticPlugs\obj\Debug\NeuSoft.Client.LogisticPlugs.pdb
